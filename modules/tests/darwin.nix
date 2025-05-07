@@ -48,6 +48,7 @@
           dunst.enable = lib.mkVMOverride false;
           mako.enable = lib.mkVMOverride false;
           polybar.enable = lib.mkVMOverride false;
+          swaync.enable = lib.mkVMOverride false;
         };
 
         wayland.windowManager = {

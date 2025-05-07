@@ -1,6 +1,7 @@
 [
   ./aerc.nix
   ./alacritty.nix
+  ./atuin.nix
   ./bat.nix
   ./bottom.nix
   ./btop.nix
@@ -38,6 +39,7 @@
   ./neovim.nix
   ./obs.nix
   ./polybar.nix
+  ./qutebrowser.nix
   ./rio.nix
   ./rofi.nix
   ./skim.nix
@@ -45,14 +47,18 @@
   ./starship.nix
   ./swaylock.nix
   ./sway.nix
+  ./swaync.nix
   ./thunderbird.nix
   ./tmux.nix
   ./tofi.nix
+  ./vscode.nix
   ./waybar.nix
+  ./wezterm.nix
   ./wlogout.nix
   ./yazi.nix
   ./zathura.nix
   ./zed-editor.nix
   ./zellij.nix
   ./zsh-syntax-highlighting.nix
+  ./sioyek.nix
 ]
